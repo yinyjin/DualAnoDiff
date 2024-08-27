@@ -1,6 +1,8 @@
 # DualAnoDiff
 DualAnoDiff: Dual-Interrelated Diffusion Model for Few-Shot Anomaly Image Generation
 
+![image](https://github.com/user-attachments/assets/187ef4ce-eaf0-4743-a94b-f627e26ab894)
+
 # Method
 ![image](https://github.com/user-attachments/assets/32a940d9-b13a-4200-b369-f78ee006bace)
 
