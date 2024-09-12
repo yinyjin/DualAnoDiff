@@ -1,4 +1,3 @@
-<center><h1>DualAnoDiff</h1></center>
 # DualAnoDiff
 <!-- ::--:DualAnoDiff: Dual-Interrelated Diffusion Model for Few-Shot Anomaly Image Generation::--: -->
 
@@ -8,7 +7,7 @@ The performance of anomaly inspection in industrial manufacturing is constrained
 <!-- ![image](https://github.com/user-attachments/assets/187ef4ce-eaf0-4743-a94b-f627e26ab894) -->
 
 
-# Method
+# ✨Method
 ![image](https://github.com/user-attachments/assets/8ef86e87-4c48-42b4-8dec-235a9d744f8a)
 
 
