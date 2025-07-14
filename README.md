@@ -33,7 +33,7 @@
 </p>
 
 
-<a href="https://arxiv.org/abs/2408.13509"><img src="https://img.shields.io/badge/arXiv-2503.09277-A42C25.svg" alt="arXiv"></a>
+<a href="https://arxiv.org/abs/2408.13509"><img src="https://img.shields.io/badge/arXiv-2408.13509-A42C25.svg" alt="arXiv"></a>
 </div>
 
 ## Abstract
